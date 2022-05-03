@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100;
+    box-sizing: border-box;
+}
+
+body {
+    background: #000;
+    font-family: "Raleway", sans-serif;
+}
+
+.header-imagen {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    opacity: 1;
+    font-weight: 500;
+}
+
+.descripcion {
+    width: 75%;
+    padding: 5rem 0;
+    margin: auto;
+}
+
+.parrafo,
+.iguana-1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.parrafo {
+    width: 50%;
+    color: #fff;
+   
+}
+
+.parrafo p {
+    margin-bottom: 1rem;
+
+}
+
+.iguana-1 {
+    width: 35%;
+    margin-left: 6rem;
+}
+.subtitulo{
+    
+    padding: 60px;
+}
+.icons-section {   
+    background: #1e1a13;
+    padding: 70px;
+}
+
+.icons-section .titulo {
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+
+.icon-box {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    color: #fff;
+}
+
+.icon-box i {
+    font-size: 3rem;
+}
+
+.icon-box p {
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-top: 1rem;
+}
+
+
+.galeria {
+    background: #000000;
+    padding: 2rem 5rem;
+    margin: 5rem;
+    display: flex;
+    text-align: center center;
+}
+
+img {
+    display: inline-block;
+    width: 95%;
+    height: 100%;
+}
+
+footer {
+    height: 102px;
+    color: #FFFFFF;
+    text-align: center;
+    background: #1e1a13;
+    padding: 35px;
+    font-weight: 500;
+    opacity: 1;
+}
